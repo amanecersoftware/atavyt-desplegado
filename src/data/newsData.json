@@ -1,0 +1,34 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "image": "/src/assets/images/news1.jpg",
+      "title": "Cursos de capacitación online de INCATUR",
+      "date": "2025-05-15",
+      "excerpt": "Abren Inscripciones para Cursos de Capacitación Online de INCATUR.",
+      "category": "Capacitación",
+      "featured": true,
+      "content": "El Instituto de Capacitación Turística (INCATUR) anunció la apertura de inscripciones para sus cursos online. Se ofrecen capacitaciones en áreas como Atención al cliente, idiomas, contabilidad, diseño, programación, marketing y ventas, entre otras. Los interesados pueden obtener más información y registrarse en www.incatur.org.ar. Esta iniciativa busca ofrecer formación accesible y flexible para quienes deseen mejorar sus habilidades profesionales. ¡No te pierdas esta oportunidad de crecimiento!."
+    },
+    {
+      "id": 2,
+      "image": "/src/assets/images/news2.jpg",
+      "title": "Workshop de capacitación en marketing digital para agencias",
+      "date": "2025-05-10",
+      "excerpt": "ATAVYT organizó un taller para capacitar a las agencias asociadas en estrategias de marketing digital y presencia en redes sociales. El evento contó con especialistas en marketing turístico que compartieron las últimas tendencias y herramientas.",
+      "category": "Capacitación",
+      "featured": true,
+      "content": "ATAVYT organizó un exitoso workshop de capacitación en marketing digital dirigido a las agencias de viajes asociadas.\n\nEl evento contó con la participación de reconocidos especialistas en marketing turístico digital, quienes compartieron las últimas tendencias, herramientas y estrategias para mejorar la presencia online de las agencias.\n\nLos temas abordados incluyeron: gestión de redes sociales, SEO para turismo, marketing de contenidos, y estrategias de conversión digital."
+    },
+    {
+      "id": 3,
+      "image": "/src/assets/images/news3.jpg",
+      "title": "Encuentro de Turismo y Tecnología en San Miguel",
+      "date": "2025-05-02",
+      "excerpt": "Representantes de ATAVYT participaron en el encuentro que abordó los desafíos tecnológicos del sector turístico y las nuevas herramientas disponibles para mejorar la experiencia del cliente.",
+      "category": "Eventos",
+      "featured": false,
+      "content": "El Encuentro de Turismo y Tecnología reunió a los principales actores del sector en San Miguel de Tucumán.\n\nATAVYT participó activamente en las mesas de trabajo donde se discutieron temas como: inteligencia artificial en el turismo, sistemas de reservas online, y herramientas de gestión para agencias.\n\nEl evento sirvió como plataforma para establecer nuevas alianzas y conocer las últimas innovaciones tecnológicas aplicadas al sector turístico."
+    }
+  ]
+}
